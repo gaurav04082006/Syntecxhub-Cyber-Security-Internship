@@ -1,0 +1,11 @@
+TCP PORT SCANNER REPORT
+========================================
+Host : google.com
+IP : 142.250.182.14
+Port Range : 20-80
+
+Open Ports:
+80
+
+Total Open Ports : 1
+Scan Time : 1.03 Seconds
