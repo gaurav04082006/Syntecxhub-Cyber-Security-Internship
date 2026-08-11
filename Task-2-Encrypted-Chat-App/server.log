@@ -1,0 +1,16 @@
+2026-08-11 19:11:14,046 - INFO - Server started on 127.0.0.1:5555
+2026-08-11 19:14:18,164 - INFO - Client connected: ('127.0.0.1', 55080)
+2026-08-11 19:17:14,942 - INFO - Client disconnected: ('127.0.0.1', 55080)
+2026-08-11 19:21:35,815 - INFO - Server started on 127.0.0.1:5555
+2026-08-11 19:25:52,638 - INFO - Server started on 127.0.0.1:5555
+2026-08-11 19:28:50,296 - INFO - Client connected: ('127.0.0.1', 49852)
+2026-08-11 19:52:22,618 - INFO - Client connected: ('127.0.0.1', 62853)
+2026-08-11 19:53:17,587 - INFO - Message received from ('127.0.0.1', 49852)
+2026-08-11 19:53:48,967 - INFO - Message received from ('127.0.0.1', 62853)
+2026-08-11 19:57:49,218 - INFO - Message received from ('127.0.0.1', 49852)
+2026-08-11 19:58:04,028 - INFO - Message received from ('127.0.0.1', 62853)
+2026-08-11 20:02:25,538 - INFO - Server started on 127.0.0.1:5555
+2026-08-11 20:04:11,752 - INFO - Client connected: ('127.0.0.1', 55016)
+2026-08-11 20:04:26,101 - INFO - Client connected: ('127.0.0.1', 55018)
+2026-08-11 20:04:41,338 - INFO - Message received from ('127.0.0.1', 55016)
+2026-08-11 20:04:54,217 - INFO - Message received from ('127.0.0.1', 55018)
